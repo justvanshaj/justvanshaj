@@ -1,4 +1,4 @@
-! [logo](https://github.com/justvanshaj/justvanshaj/blob/main/github%20banner.png)
+![logo](https://github.com/justvanshaj/justvanshaj/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Vanshaj Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer and data analyst enthusiast</h3>
 
